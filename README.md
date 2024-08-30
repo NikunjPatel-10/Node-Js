@@ -1,5 +1,5 @@
 "# Node-Js" 
-add this in controller/auth.js in line no 14
+add this in controller/auth.js in line no 10
 
 const transporter = nodemailer.createTransport(
   sendgridTransport({
